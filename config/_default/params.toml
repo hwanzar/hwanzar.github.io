@@ -30,8 +30,8 @@ disableTextInHeader = false
 
 [footer]
   showMenu = true
-  showCopyright = true
-  showThemeAttribution = true
+  showCopyright = false
+  showThemeAttribution = false
   showAppearanceSwitcher = true
   showScrollToTop = true
 
