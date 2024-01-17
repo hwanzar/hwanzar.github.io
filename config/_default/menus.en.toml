@@ -46,21 +46,21 @@
 
 # config/_default/menus.toml
 
-[[main]]
-  name = "Parent"
-  weight = 20
+# [[main]]
+#   name = "Parent"
+#   weight = 20
 
-[[main]]
-  name = "sub-menu 1"
-  parent = "Parent"
-  pageRef = "samples"
-  weight = 20
+# [[main]]
+#   name = "sub-menu 1"
+#   parent = "Parent"
+#   pageRef = "samples"
+#   weight = 20
 
-[[main]]
-  name = "sub-menu 2"
-  parent = "Parent"
-  pageRef = "samples"
-  weight = 20
+# [[main]]
+#   name = "sub-menu 2"
+#   parent = "Parent"
+#   pageRef = "samples"
+#   weight = 20
 
 # [[main]]
 #   name = "sub-menu 3"
