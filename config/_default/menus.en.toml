@@ -18,31 +18,21 @@
   weight = 10
 
 [[main]]
-  name = "Topics"
-  pageRef = "topics"
-  weight = 20
+  name = "About"
+  pageRef = "about-me"
+  weight = 40
 
 [[main]]
+  identifier = "github"
   pre = "github"
-  name = "GitHub"
-  url = "https://github.com/nunocoracao/blowfish"
-  weight = 30
-
-# [[main]]
-#   identifier = "github2"
-#   pre = "github"
-#   url = "https://github.com/nunocoracao/blowfish"
-#   weight = 40
-
-[[footer]]  
-  name = "Privacy"
-  url = "https://external-link"
+  url = "https://github.com/hwanzar"
 
 [[main]]
-  pre = "resume"
-  name = "Resume"
-  url = "https://github.com/nunocoracao/blowfish"
-  weight = 30
+  identifier = "twitter"
+  pre = "twitter"
+  url = "https://twitter.com/burufugu"
+  weight = 60
+
 
 # config/_default/menus.toml
 
