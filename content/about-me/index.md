@@ -24,7 +24,7 @@ Excited to explore the intersection of these interests! 🚀
 
 
 ## What I study
-
+- I am a Computer Engineering student at HCMUT.
 
 ## Tools and Technologies
 
