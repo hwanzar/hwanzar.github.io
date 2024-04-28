@@ -3,7 +3,6 @@ title: "A little knowledge about CNN"
 date: 2024-01-14T23:21:10+07:00
 draft: false
 ---
-{{< katex >}}
 
 # Convolutional Neural Network
 Convolutional Neural Networks (CNNs) constitute a cornerstone in deep learning theory, specifically designed for processing grid-like data like images and video. The canonical architecture encompasses convolutional layers, where learnable filters convolve across input data, extracting hierarchical and spatial features. Subsequent pooling layers facilitate downsampling, enhancing translation invariance. These are often followed by fully connected layers and non-linear activation functions to model complex relationships. The complete suite of layers typically includes input layers, convolutional layers, pooling layers, fully connected layers, and output layers, collectively orchestrating the network's ability to learn intricate patterns and representations for diverse tasks such as image recognition and object detection.
